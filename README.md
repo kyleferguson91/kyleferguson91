@@ -1,12 +1,12 @@
 # Kyle Ferguson
 
-I work across hands-on IT support, practical automation, and custom software. With a Computer Programming background and customer-facing experience, I troubleshoot hardware, software, and network issues, then turn repeatable needs into useful tools and workflows.
+I work in IT support, troubleshooting Windows, hardware, software and networks. I also build tools for recurring support tasks and everyday business workflows. My background includes customer service and a Computer Programming diploma.
 
 ## Selected projects
 
-- [Portfolio](https://kyleferguson91.github.io/Portfolio/) — support, automation, and sanitized project examples.
-- [PlatePlan](https://github.com/kyleferguson91/plateplan) — a Java web project for finding recipes and planning meals.
-- [Social Messaging Microservices](https://github.com/kyleferguson91/TwitterStyleMicroserviceApp) — a Java service-based application.
-- [BBC News Reader](https://github.com/kyleferguson91/BBCNewsApp) — an Android app for browsing news and saving favorites.
+- [Portfolio](https://kyleferguson91.github.io/Portfolio/): my IT work and selected projects, with sanitized examples.
+- [PlatePlan](https://github.com/kyleferguson91/plateplan): a Java web app for finding recipes by ingredient.
+- [Social Messaging Microservices](https://github.com/kyleferguson91/TwitterStyleMicroserviceApp): Java services for users and messages.
+- [BBC News Reader](https://github.com/kyleferguson91/BBCNewsApp): an Android app for reading news and saving favourites.
 
-More about my work: [LinkedIn](https://www.linkedin.com/in/kferguson91/) · [Portfolio](https://kyleferguson91.github.io/Portfolio/)
+[LinkedIn](https://www.linkedin.com/in/kferguson91/)
